@@ -1,0 +1,13 @@
+{
+  "name": "vue-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "supervisor ./server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
